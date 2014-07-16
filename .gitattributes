@@ -24,3 +24,4 @@
 # Ignore files when exporting
 .gitignore export-ignore
 .gitattributes export-ignore
+README.md export-ignore
